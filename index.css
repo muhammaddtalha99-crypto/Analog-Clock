@@ -7,7 +7,7 @@
     width: 42vw;
     height: 42vw;
     position: relative;
-    background: url(clock.avif);
+    background: url(images/clock.avif);
     background-size: 100%;
     margin: auto;
 }
